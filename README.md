@@ -1,2 +1,3 @@
 # complexxx
 git init
+git clone /path/to/repository
